@@ -26,8 +26,11 @@ insights and make a precise decision regarding lending practices.
 
 Domain : Finance
 Project: Bank loan of customers
+
 Datasets: Finance_1 & Finance_2
+
 Dataset Type: Excel Data
+
 Dataset Size: 39k+ records
 
 
