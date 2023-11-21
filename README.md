@@ -15,8 +15,36 @@ Thankfully, key performance indicators (KPIs) make this easier to do.
 
 
 
-project file: https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
+Project Details:
 
- Datasets : https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
+"Analysis of Bank Loans for Customer Data" project, we will leverage two datasets,
+Finance_1 and Finance_2, each containing over 39,000 records of financial 
+information in Excel format. The primary objective of this project is to perform an in-
+depth analysis of bank loans provided to the customers, aiming to extract valuable 
+insights and make a precise decision regarding lending practices.
+
+
+Domain : Finance
+Project: Bank loan of customers
+Datasets: Finance_1 & Finance_2
+Dataset Type: Excel Data
+Dataset Size: 39k+ records
+
+
+
+
+
+
+project file: https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
+Datasets : https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
 
  KPI'S : 
+1)Year wise loan amount Stats
+
+2)Grade and sub grade wise revol_bal
+
+3)Total Payment for Verified Status Vs Total Payment for Non Verified Status
+
+4)State wise and last_credit_pull_d wise loan status
+
+5)Home ownership Vs last payment date stats
