@@ -39,7 +39,7 @@ Dataset Size: 39k+ records
 
 
 project file: https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
-Datasets : https://drive.google.com/drive/folders/1DTMbfD1bpa66dty9VDGqrNUqEWhPK0YH?usp=drive_link
+
 
  KPI'S : 
 1)Year wise loan amount Stats
